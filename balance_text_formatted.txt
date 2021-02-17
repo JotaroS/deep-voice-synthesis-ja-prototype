@@ -1,0 +1,100 @@
+/wav/uemura_normal_001.wav|mata tooji no yoo ni go dai myoooo to yoba reru shuyoo na myoooo no chuuoo ni haisa reru koto mo ooi.
+/wav/uemura_normal_002.wav|nyuuingurando fuu wa giyuunyuu o beesu to shi ta shiroi kuriimu suupu de ari bosutonkuramuchaudaa to mo yoba reru.
+/wav/uemura_normal_003.wav|konpyuuta geemu no meekaa ya gyookai dantai nado ni kanren suru jinbutsu no kategori.
+/wav/uemura_normal_004.wav|saabisu maneejaa doonyuu eki no tame ooi choo eki kara enkaku kanshi shi te iru.
+/wav/uemura_normal_005.wav|shirubaa saafaa shuugeki jiken made ni richaazu wa chiimu mee to tomo ni kokusai teki ni suupaa hiiroo oyobi yuumee nin to shi te ninchi sa re te iru.
+/wav/uemura_normal_006.wav|tsuyurenharuto ryoo wa byurutenberuku ryoo ni hennyuu sa re ta.
+/wav/uemura_normal_007.wav|jikan ryooiki to kuukan ryooiki de kyootsuu suru shori shuhoo wa firutaringu ni yoru nyuuryoku shingoo no kyooka de aru.
+/wav/uemura_normal_008.wav|shan chii no sengyoo puro wa chiimu kara shiharawa reru kyuuryoo to taikyoku hi o omona shuunyuu to shi te iru.
+/wav/uemura_normal_009.wav|mata nejime shi wa nakayama oo no osameru ryuukyuu ookoku to no kooeki ni mo sanka shi ta.
+/wav/uemura_normal_010.wav|sumaato fon kara fiichaa fon made maruchi debaisu ni taioo.
+/wav/uemura_normal_011.wav|keemyoo shadatsu na nareeshon kara joocho kan afureru katari made habahiroi hyoogen ryoku o motsu.
+/wav/uemura_normal_012.wav|koozoo wa koosee no tan'itsu aachi de kyookyaku wa ishitsumi de aru.
+/wav/uemura_normal_013.wav|soko e oonaa ga atarashii shiefu to shi te udekiki no hyonuku o maneku.
+/wav/uemura_normal_014.wav|kuiinzu abenyuu arufa ni shozoku shi te iru.
+/wav/uemura_normal_015.wav|ippoo de gyogyoo to shoogyoo de ryanesu koo wa han'ee shi te i ta.
+/wav/uemura_normal_016.wav|kono nyuusausuueeruzu daihyoo chiimu ga warabiizu no chuukaku to natsu te iku.
+/wav/uemura_normal_017.wav|tadashi giyanburu izon shoo no nyuuin chiryoo o okonatsu te iru byooin wa wazuka de aru.
+/wav/uemura_normal_018.wav|hoka no mejaa na disutoribyuushon ni kurabe sekyuriteii joo no mondai no shuusee ga osoi baai mo aru.
+/wav/uemura_normal_019.wav|berugaa tooa mae no vedigen'uufaapaaku ni wa sensoo to dan'atsu no gisee sha no tame no kinen hi ga tatsu te iru.
+/wav/uemura_normal_020.wav|zenbee paburisshaazu kyookai no besutosutoratejiigeemuobuzaiyaa o nippon nin to shi te jushoo.
+/wav/uemura_normal_021.wav|itami wa tenteki yori chintsuu yaku o joomyaku tooyo suru koto de chintsuu o okonau.
+/wav/uemura_normal_022.wav|kono toki ni fuyuu tairiku puruvama ni aru chuuritsu koku byueruba ga aru joohoo suji kara basshu shoogun no shokee to zen oojo aa shie no jigai o happyoo.
+/wav/uemura_normal_023.wav|nansee bu uooren wa beiaamanfaamuzu to fittsujierarudo no chiku de koosee sa reru.
+/wav/uemura_normal_024.wav|kono tame purazuma chuu no ion ya denshi no motsu heekin undoo enerugii o ondo de hyoogen suru koto ga aru.
+/wav/uemura_normal_025.wav|sono hyoohyoo to shi ta hitogara ga roonyaku danjo ni shitawa re te iru.
+/wav/uemura_normal_026.wav|genzai nyuujaajii shuu muu azu taun ni sun de iru.
+/wav/uemura_normal_027.wav|chooiki ni atsu ta mine yama han wa nagaoka han ni bee hyaku hyoo o okutsu ta koto de yuumee.
+/wav/uemura_normal_028.wav|kono toki perimeedee wa amupikutoryuoon ni dookoo shi te teebai ni ki te i ta rikyumuniosu ni tsuma to shi te atae rare ta.
+/wav/uemura_normal_029.wav|genzai no kassoo o mokuteki to shi ta sukii buutsu wa katai purasuchikku shieru to yawarakai innaa buutsu kara naru.
+/wav/uemura_normal_030.wav|boo koori buutsu wa hyoomen ni hara re ta gomu see no usui maku de deki te iru.
+/wav/uemura_normal_031.wav|koosha no daihyoo ga uejjiuddo no jasupaa uea de aru.
+/wav/uemura_normal_032.wav|kii kyoku ga hasshin suru nyuusu nettowaaku mee o kanshi ta taitoru no nyuusu bangumi no naka de wa regiyuraa hoosoo ga mottomo ooi.
+/wav/uemura_normal_033.wav|geenoo purodakushon amyuuzu no guruupu kigyoo.
+/wav/uemura_normal_034.wav|choo boin o shooryaku shi te eryushion to mo hyooki sa reru.
+/wav/uemura_normal_035.wav|morinaga no oishii giyuunyuu wa koi aoiro ni giyuunyuu bin o ashiratsu ta dezain no pakku giyuunyuu de aru.
+/wav/uemura_normal_036.wav|bangumi bootoo o tookyoo muubii seesaku no animeeshon de hyoogen suru ten mo kyootsuu shi te i ta.
+/wav/uemura_normal_037.wav|komyuun wa seenu kawa to esonnu kawa no gooryuu chiten to natsu te iru.
+/wav/uemura_normal_038.wav|dooji ni fukui mirakuruerefantsu ni koochi kennin de nyuudan suru koto ga happyoo sa re ta.
+/wav/uemura_normal_039.wav|otto de aru komuro ga kyuukyuu sha o yobi tonai byooin ni kinkyuu hansoo sa reru.
+/wav/uemura_normal_040.wav|giresupii wa maggii o tsuuji te inesu to shiriatsu ta.
+/wav/uemura_normal_041.wav|fonteenuburoo yooshiki de wa guui teki na e ga shikkui no moorudo ni tsukawa re te iru.
+/wav/uemura_normal_042.wav|saijin wa bishunu ha no seejin suwaamiinaaraayan.
+/wav/uemura_normal_043.wav|haadeesu ga peruseponee ni koi o shi ta no wa apurodiitee no sakuryaku de aru to sa re te iru.
+/wav/uemura_normal_044.wav|kuueenbaanchaan wa chiisana komyuniteii de noogyoo ya shoogyoo o chuushin ni naritatsu te i ta to kangae rare te iru.
+/wav/uemura_normal_045.wav|veezaa jiten sha doo ya myuurenruuto ni shitagatsu ta saikuringu tsuaa wa peetaasuhaagen o keeyu suru.
+/wav/uemura_normal_046.wav|foomyura kaa wa tsuujoo oopun hoiiru de shinguru shiitaa de aru.
+/wav/uemura_normal_047.wav|doojitsu asa ni oosaka nanba de shuppatsu seremonii ga kaisai sa re eegyoo unten ni juutoo sa re ta.
+/wav/uemura_normal_048.wav|soshite independento shi no dokusha toohyoo de erabu puremia riigu sai yuushuu goorukiipaa ni eraba re ta.
+/wav/uemura_normal_049.wav|pureeyaa kyarakutaa wa kyuuden o senkyo shi ta jaaku na kuriichaa ni sooguu suru.
+/wav/uemura_normal_050.wav|fiirudo maaketeingu wa rekishi teki ni wa ippoo tsuukoo no komyunikeeshon tsuuru to shi te kangae rare te ki ta.
+/wav/uemura_normal_051.wav|debyuu go no suu nenkan wa bebii feesu to shi te honmyoo de katsudoo.
+/wav/uemura_normal_052.wav|gakkoo ya byooin nado no kyuushoku gyoomu de eeyoo so o keesan suru ue de juuyoo na shiryoo no hito tsu de aru.
+/wav/uemura_normal_053.wav|tooji ayashii waa ru do ni joochuu shi te i ta giko neko ga kuuhaku nite happyoo.
+/wav/uemura_normal_054.wav|yuufuku na nyuuyookaa tachi wa gureevusendo keeba joo ya shiipu shieddo bee keeba joo nado ni tsudoi umizoi no kookyuu resutoran ya hoteru o riyoo shi ta.
+/wav/uemura_normal_055.wav|uoriaazumikkusumaasharuaatsuakademii shozoku.
+/wav/uemura_normal_056.wav|tokoro ga eryushikutoon wa nyumupee no seeshi mo kika zu ni deemeeteeru no kashi o kiritaoshi ta.
+/wav/uemura_normal_057.wav|kono jieshii yaku de sutee mosu wa emii shoo ni nomineeto sa re ta koto mo aru.
+/wav/uemura_normal_058.wav|suueeden imin no ryooshin no moto ni masachuusettsu shuu kenburijji nite umareru.
+/wav/uemura_normal_059.wav|kyuuen no fan toohyoo de mo ninki ga guuzoo ka shi te i ta nagashima shigeo ni nikuhaku suru.
+/wav/uemura_normal_060.wav|haha wa piitaamarittsubaagu no seeshin byooin ni nyuuin shi te iru toki ni besshii o umu.
+/wav/uemura_normal_061.wav|pointo gaado kara sumooru fowaado made konaseru soogoo ryoku ga takai yuuteiriteii pureeyaa de aru.
+/wav/uemura_normal_062.wav|gureggu wa mishishippi shuu abadiin ni aru oddo feroozu bochi ni maisoo sa reru koto ni natsu ta.
+/wav/uemura_normal_063.wav|ooatari shuuryoo go wa guradieetaa chansu ni totsunyuu suru.
+/wav/uemura_normal_064.wav|kono kin ni yoru byooki wa haiiro kabi byoo to nazuke rare te iru mono ga ooi.
+/wav/uemura_normal_065.wav|regiyuraa menbaa no kao shashin o kurikku shi ta ato ni muubii pureeyaa fuu ni saisee sa reru to yuu tokui na keeshiki to natsu te iru.
+/wav/uemura_normal_066.wav|kanzoo e no sanso kyookyuu wa kan doomyaku to teeatsu kee no monmyaku o kaishi te okonawa re te iru.
+/wav/uemura_normal_067.wav|deddo kii wa taipuraitaa ya konpyuuta no kiiboodo ni oke ru tokushu na shuushoku kii de aru.
+/wav/uemura_normal_068.wav|shanshan uma wa udo jinguu e sanpai suru shinkon fuufu ga notsu te i ta uma no koto.
+/wav/uemura_normal_069.wav|buruurijji sanmyaku no genryuu kara ritchimondo made ooku no hayase ya fuchi ga tsuri ya kyuuryuu kudari o tanoshima se te kureru.
+/wav/uemura_normal_070.wav|boo han wa iisutoman ra giyangu no supiikuiijii no agari kara wairo o totsu te i ta to mo uwasa sa re ta.
+/wav/uemura_normal_071.wav|penshirubenia shuu firaderufia no koogai uin uddo no ranke nau byooin de umare ta.
+/wav/uemura_normal_072.wav|buraggu wa byuu eru gun yori mo ressee datsu ta tame ni kono kikai o ikasu koto o chuucho shi ta.
+/wav/uemura_normal_073.wav|jooin giin to shi te baan'ueru wa kariforunia shuu no renpoo kanyuu ni sansee shi ta.
+/wav/uemura_normal_074.wav|rejiendo shiriizu o beesu ni yoo furii kikoo o sonae ta byuu kamera.
+/wav/uemura_normal_075.wav|gakkyoku no sentaa pojishon wa AKB 48 no takahashi minami ga tsutome ta.
+/wav/uemura_normal_076.wav|dionyuusosu no chooai o ukeru oineusu oo to hi arutai aa no aida ni karyudoon no oojo to shi te nama o uke ta.
+/wav/uemura_normal_077.wav|taisee yoojoo no junkoo koodo kara dooryoku nashi de chijoo e kakkuu hikoo shi kinkyuu chakuriku ni seekoo shi ta.
+/wav/uemura_normal_078.wav|hyoogen gyooretsu no shihyoo hyoo o bunshi no taishoo see o arawasu ten gun no shihyoo hyoo o mochii te kiyaku hyoogen e bunkai suru.
+/wav/uemura_normal_079.wav|taiyoo gyogyoo oonaa no nakabe kenkichi no inochi o uke te puro yakyuu kyuudan no taiyoo hoeeruzu ni kakawaru.
+/wav/uemura_normal_080.wav|kasuka ni kikoe te kuru 1931 nen ban no sanbi ka ga shidai ni ookiku natsu te iku.
+/wav/uemura_normal_081.wav|mooiideen ganpeki chiiki no joobu wa puraasaatopurauihaan jiin iseki e tsunagaru tai gawa sandoo ni tsuzui te iru.
+/wav/uemura_normal_082.wav|kaamira see to yoba re te iru wakusee kara uchuu sen ni notsu te chikyuu ni shinnyuu shi ta uchuu nin.
+/wav/uemura_normal_083.wav|doggaabanku wa tara ya nishin no gyokaku ryoo ga ooi juuyoo na gyoba de aru.
+/wav/uemura_normal_084.wav|shoonen jidai wa roshia teekoku cheruniihiu ken puruiruukui gun torosuchanuiitsuya mura de sugoshi ta.
+/wav/uemura_normal_085.wav|ikai no hotondo wa suueeden nishi kaigan no buuhyuusureen chihoo no kojima ni aru gyoson fuyarubakka shuuhen no umi ni sankotsu sa re ta.
+/wav/uemura_normal_086.wav|kokkyoo o koe te ressha wa kairyoo sa re ta zairai sen ni sotsu te aahen chuuoo eki ni mukau.
+/wav/uemura_normal_087.wav|fukuoka daiee hookusu de wa naku naga kyori hoo no hokyoo o mezashi te i ta oosaka kintetsu bafaroozu kara ofaa o uke te nyuudan.
+/wav/uemura_normal_088.wav|soko ni wa hyaku doru satsu to amerika ni koi to yuu mijikai messeeji dake datsu ta.
+/wav/uemura_normal_089.wav|genzai wa bahha o mochiifu to shi ta haapushikoodo no sakkyoku ka to shi te kioku sa re te iru.
+/wav/uemura_normal_090.wav|sentoo fuku wa ryooude o roshutsu shi ryooashi ga andaa suutsu de oowa re te iru.
+/wav/uemura_normal_091.wav|doobo ane ni suueeden oohi jozefiinu ga iru.
+/wav/uemura_normal_092.wav|shigai sen wa hyoomen enerugii no chiisai porimaa o setchaku suru sai no mae shori ni riyoo sa reru.
+/wav/uemura_normal_093.wav|jishin no peeji de messeeji ya kookai komento o tooshi te rebyuu o tookoo shi ta yuuzaa to komyunikeeshon o toru koto ga kanoo de aru.
+/wav/uemura_normal_094.wav|wakaki hi no hangiyaku yue ni uchuu no chuuoo o tsuihoo sa re te wakusee chikyuu ni yatsu te ki ta shujin koo beruzebabu ga uchuu sen karunaaku no naka de mago ni kataru soodai na monogatari.
+/wav/uemura_normal_095.wav|jagaa to wa taishoo teki ni bodii birudaa o hoofutsu to sa seru matcho na taiiku kai kee no gaiken ga tokuchoo.
+/wav/uemura_normal_096.wav|penshirubenia shuu pittsubaagu no aregeenii kookoo o sotsugyoo shi kariforunia daigaku baakuree koo ni nyuugaku.
+/wav/uemura_normal_097.wav|kono gainen no doonyuu ni yotsu te samazama na barieeshon no ryuutai no konpyuutaa shimyureeshon ga takai seedo de kanoo to natsu ta.
+/wav/uemura_normal_098.wav|kan dokku ni nyuukyo shi te oobaahooru su beki ka doo ka pafoomansu ga chekku sa re ta.
+/wav/uemura_normal_099.wav|debyuu ueeto wa suupaa bantamu kyuu de wa naku fezaa kyuu datsu ta.
+/wav/uemura_normal_100.wav|aarii wa koou no naka o minami no baajinia shuu uinchesutaa chikaku no fisshaazuhiru made gun o shirizoi ta.
